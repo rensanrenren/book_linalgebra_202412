@@ -53,7 +53,7 @@ sudo apt install python3 python3-pip
   - 複数の USB ポートや HDMI 出力で汎用性も高い。
 
 #### **推奨する構成**
-- **Raspberry Pi 4 Model B (4GB)** + **16GB以上のmicroSDカード**
+- **Raspberry Pi 4 Model B (4GB)** + **16GB以上のmicroSDカード** https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-655N
   - 基本的なタスクに十分対応可能。
   - 低予算で環境を整えられる。
 
