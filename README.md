@@ -1,0 +1,2 @@
+# book_linalgebra_202412
+Pythonで学ぶ線形代数学
