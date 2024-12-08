@@ -45,6 +45,25 @@ Raspberry Pi OSにはPythonがプリインストールされています。た�
 sudo apt update
 sudo apt install python3 python3-pip
 ```
+#### **購入すべき Raspberry Pi モデル**
+- **Raspberry Pi 4 Model B (4GB/8GB RAM)**:
+  - メモリ容量を選択可能（4GB または 8GB）。
+  - Python の実行、ライブラリの使用、Jupyter Notebook の動作に十分な性能を持つ。
+  - 高速なプロセッサ（ARM Cortex-A72）を搭載。
+  - 複数の USB ポートや HDMI 出力で汎用性も高い。
+
+#### **推奨する構成**
+- **Raspberry Pi 4 Model B (4GB)** + **16GB以上のmicroSDカード**
+  - 基本的なタスクに十分対応可能。
+  - 低予算で環境を整えられる。
+
+- **Raspberry Pi 4 Model B (8GB)** + **32GB以上のmicroSDカード**
+  - 高負荷の処理や長時間の作業を視野に入れるならこちらを選択。
+
+---
+
+#### **理由**
+Raspberry Pi Zero 2 W は超小型デバイスで、基本的な IoT アプリケーション向けに設計されていますが、本作業のようなリソース集約型のタスクには適していません。Raspberry Pi 4 Model B は、ラズパイシリーズの中で高性能なモデルであり、要件を満たす上で最適です。
 
 ---
 
